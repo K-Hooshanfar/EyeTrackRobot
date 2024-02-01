@@ -4,7 +4,7 @@ This repository hosts the code and documentation for a novel system designed to 
 
 **Conference News:** Thrilled to announce that our research paper has been accepted for presentation at the ICRoM 2023 conference.
 
-### Key Components
+## Key Components
 - **Eye-Tracking Module**: Utilizes advanced image processing and machine learning techniques to accurately track eye movements.
 - **Robotic Arm Control**: Converts eye movement data into precise commands to control the movements of a robotic arm.
 - **Wheelchair Navigation System**: Interprets eye gestures for directional control of a smart wheelchair, with built-in safety features like automatic obstacle avoidance.
