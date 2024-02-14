@@ -2,7 +2,8 @@
 
 This repository hosts the code and documentation for a novel system designed to empower individuals with severe speech and motor impairment (SSMI). Utilizing eye-tracking technology, the system empowers these individuals to control a robotic arm and a smart wheelchair, thereby enhancing their ability to interact with their environment and gain a greater degree of independence.
 
-**Conference News:** Thrilled to announce that our research paper has been accepted for presentation at the **ICRoM 2023 conference**.
+**Conference News:** Thrilled to announce that our research paper has been accepted for presentation at the **ICRoM 2023 conference**. [Link](https://ieeexplore.ieee.org/abstract/document/10412408/)
+
 
 ## Key Components
 - **Eye-Tracking Module**: Utilizes advanced image processing and machine learning techniques to accurately track eye movements.
