@@ -20,7 +20,7 @@ This repository hosts the code and documentation for a novel system designed to 
 - Helia Shams Jey
 
 ## Contact Information
-For any queries, please contact [asad_m@elec.iust.ac.ir](mailto:asad_m@elec.iust.ac.ir) or [k.hooshanfar@ut.ac.ir](mailto:k.hooshanfar@ut.ac.ir).
+For any queries, please contact [k.hooshanfar@ut.ac.ir](mailto:k.hooshanfar@ut.ac.ir).
 
 
 
